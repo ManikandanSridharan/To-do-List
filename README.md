@@ -11,7 +11,7 @@ Welcome to my To-Do List project! This project is designed to help manage tasks 
 **JavaScript:** For handling task input, display, and deletion functionalities.
 
 # How to View
-You can explore this To-Do List project by visiting [link]. Try adding and deleting tasks to see how the application works!
+You can explore this To-Do List project by visiting https://manikandansridharan.github.io/To-do-List/. Try adding and deleting tasks to see how the application works!
 
 # Feedback and Contributions
 Feedback and contributions are greatly appreciated! If you have suggestions for improvement or encounter any issues, please open an issue or submit a pull request.
